@@ -19,5 +19,12 @@ const products = [
     price: 450,
     category: "electronics",
     stock: 5
+  },
+  {
+    id: 3,
+    name: "SSD",
+    price: 250,
+    category: "electronics",
+    stock: 2
   }
 ];
